@@ -1,3 +1,3 @@
-Backjoon Algorithm
+Problem Sets from Backjoon Algorithm (https://www.acmicpc.net/)
 
-Uploading my solutions of algorithm problems
+Uploading my solutions to algorithm problems
